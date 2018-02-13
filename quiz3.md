@@ -1,6 +1,6 @@
 
 ## Consider editing?
-[Click Here to suggest edit on Github](https://github.com/weiranx/cse12_quiz3/blob/master/quiz3.md)
+[Click Here to suggest edits on Github](https://github.com/weiranx/cse12_quiz3/blob/master/quiz3.md)
 
 
 ##  The efficiency of the Linked-List based Stack push function is big-O of:  
