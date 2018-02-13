@@ -1,23 +1,27 @@
-##  The efficiency of the Linked-List based Stack push function is big-O of:  
 
+## Consider editing?
+[Click Here to suggest edit on Github](https://github.com/weiranx/cse12_quiz3/blob/master/quiz3.md)
+
+##  The efficiency of the Linked-List based Stack push function is big-O of:  
+1
 
 ##  The efficiency of the Linked-List based Stack pop function is big-O of:  
-
+1
 
 ##  The efficiency of the Linked-List based Stack top function is big-O of:  
-
+1
 
 ##  The efficiency of the Linked-List based insert function to insert at the beginning of the list is big-O of:
-
+1
 
 ##  The efficiency of the Linked-List based remove function to remove from the beginning of the list is big-O of:
-
+1
 
 ##  The efficiency of the Linked-List based view function to view at the beginning of the list is big-O of:
-
+1
 
 ##  The efficiency of the Linked-List based view function to view at a selected position in the list is big-O of:
-
+n
 
 ##  The efficiency of the Linked-List based remove function to remove at a selected position in the list is big-O of:
 n
